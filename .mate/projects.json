@@ -1,0 +1,12 @@
+{
+    "my_project": {
+        "name": "my_project",
+        "project": {
+            "models": {},
+            "data_loaders": {},
+            "trainers": {},
+            "experiments": {}
+        },
+        "root": "/my_project"
+    }
+}
